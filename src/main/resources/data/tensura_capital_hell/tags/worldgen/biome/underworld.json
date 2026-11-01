@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tensura:underworld_barrens",
+    "tensura:underworld_red_sands",
+    "tensura:underworld_sands",
+    "tensura:underworld_spikes"
+  ]
+}

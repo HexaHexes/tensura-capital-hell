@@ -1,1 +1,4 @@
-{"replace": false, "values": ["tensura:hell/hell_gate"]}
+{
+  "replace": false,
+  "values": ["tensura:hell/hell_gate", "tensura_capital_hell:hell"]
+}
