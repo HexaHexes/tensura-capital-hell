@@ -1,0 +1,4 @@
+{
+  "placement": {"type": "minecraft:random_spread", "salt": 777005, "separation": 8, "spacing": 256},
+  "structures": [{"structure": "tensura_capital_hell:hell", "weight": 1}]
+}
