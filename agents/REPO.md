@@ -6,8 +6,8 @@ and pulled in verbatim — **never hand-edit it.** Everything in this file is th
 repo's own and is edited freely; keep it aligned with the org rules rather than
 restating them.
 
-**Repo:** `HexaHexes/tensura-capital-mortals` · **Mod ID:** `tensura_capital_hell` · **Branch:** `main`
-**Platform:** Minecraft 1.21.1 / NeoForge 21.1.259 / JDK 21 · **Jar:** `build/libs/tensura_capital_hell-<version>.jar`
+**Repo:** `HexaHexes/tensura-capital-hell` · **Mod ID:** `tensura_capital_hell` · **Branch:** `neoforge-1.21.1` (the loader line; this is the default branch - no `main`)
+**Platform:** Minecraft 1.21.1 / NeoForge 21.1.259 / JDK 21 · **Jar:** `build/libs/tensura_capital_hell-neoforge-1.21.1-<version>.jar`
 
 Capital cities for the mortal races - Humans, Elves, Dwarves. The cities ship
 as bundled datapack content in this mod's jar and register into the central
